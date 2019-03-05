@@ -1,5 +1,18 @@
-# tei-example
-
+<TEI> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+	<title>Кавказские повести</title> 
+</titleStmt> 
+<respStmt> 
+	<persName>Малахова Лена</persName> 
+	<resp> создание TEI документа, выделение в тексте прямой речи</resp> 
+</respStmt> 
+</fileDesc> 
+</teiHeader> 
 <text> 
-А затем на миг воцарялось молчание; а затем взлетала на воздух стая охов вздохов. <speech> <said type="direct" aloud="true"> <author_comment> Плечи подымались до ушей, брови до шапок ропот сливался в умолительное восклицание:</author_comment>  "аман, аман (пощади, помилуй)!". </said> </speech>
+А затем на миг воцарялось молчание; а затем взлетала на воздух стая охов вздохов. <speech>  <author_comment> Плечи подымались до ушей, брови до шапок ропот сливался в умолительное восклицание </author_comment> : <said type="direct" aloud="true"> "аман, аман (пощади, помилуй)!". </said> </speech>
 </text>
+</TEI>
+
+
